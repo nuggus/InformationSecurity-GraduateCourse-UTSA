@@ -1,3 +1,6 @@
+/*
+Program to implement k means clustering algorithm
+*/
 import java.util.Scanner;
 
 public class Clustering {
