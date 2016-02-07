@@ -1,0 +1,31 @@
+****************** K MEANS CLUSTERING***************
+Enter number of coordinates:
+8
+Enter number of clusters(k values):
+3
+Enter coordinates
+2 10 2 5 8 4 5 8 7 5 6 4 1 2 4 9
+Sample Entered:
+(2,10)
+(2,5)
+(8,4)
+(5,8)
+(7,5)
+(6,4)
+(1,2)
+(4,9)
+*******************Final Centroid Positions*******************
+Cluster-1centroid: (3.6666666666666665,9.0)
+Cluster-2centroid: (1.5,3.5)
+Cluster-3centroid: (7.0,4.333333333333333)
+Cluster-1points:
+(2,10)
+(5,8)
+(4,9)
+Cluster-2points:
+(2,5)
+(1,2)
+Cluster-3points:
+(8,4)
+(7,5)
+(6,4)

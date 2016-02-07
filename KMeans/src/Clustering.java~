@@ -1,6 +1,5 @@
 /*
 Program to implement k means clustering algorithm
-@Author:Viswanath Nuggu
 */
 import java.util.Scanner;
 
